@@ -1,0 +1,5 @@
+1,Ivanov,Vasya,Ivanov,First Str,12345,0
+2,Petrov,Ivan,Maksimov,Second Str,12435,10000
+3,Shevchenko,Vasya,Petrovich,Third Str,54321,723
+4,Ivanova,Victoria,Oleksiivna,Fourth Str,24257,-584
+5,Ivanov,Petya,Vladymirovich,First Str,93841,-50000
